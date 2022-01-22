@@ -1,0 +1,20 @@
+{
+  "name": "self-notes-master",
+  "version": "1.0.0",
+  "description": "this is a self notes sites",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "self-notes-master"
+  },
+  "author": "Manish kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
